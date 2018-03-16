@@ -2,7 +2,7 @@
 
 <item>
 <title>Canal 12</title>        
-<urlsolve>http://www.montecarlotv.com.uy/montecarlo-tv-en-vivo</urlsolve>
+<livestreamer>http://www.montecarlotv.com.uy/montecarlo-tv-en-vivo</livestreamer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
