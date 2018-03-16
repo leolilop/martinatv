@@ -2,8 +2,14 @@
 
 <item>
 <title>Canal 12</title>        
-<urlsolve>https://www.youtube.com/watch?v=xjKug_xBxVI</urlsolve>
-<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+<urlsolve>https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
+<item>
+<title>Prueba</title>        
+<urlsolve>https://www.youtube.com/watch?v=hn3wJ1_1Zsg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
