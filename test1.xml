@@ -2,7 +2,7 @@
 
 <item>
 <title>Canal 12</title>        
-<sportdevil>https://www.teledoce.com/envivo/</sportdevil>
+<sportsdevil>https://www.teledoce.com/envivo/</sportsdevil>
 <referer>https://www.teledoce.com</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -11,6 +11,13 @@
 <item>
 <title>Prueba</title>        
 <urlsolve>https://www.youtube.com/watch?v=hn3wJ1_1Zsg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Canal 12</title>        
+<sportsdevil>https://www.teledoce.com/envivo/</sportsdevil>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
