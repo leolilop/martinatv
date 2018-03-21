@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>uruguay</title>
+<title>TV EN VIVO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
  
 <item>
-<title>argentina</title>
+<title>CINE</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,10 +17,9 @@
 </item>
  
 <item>
-<title></title>
+<title>MUSICA</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
- 
