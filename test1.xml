@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
---URUGUAY--
+
+<item>
+<title> --URUGUAY-- </title>
+</item>
 
 <item>
 <title>CANAL 12</title>        
@@ -35,3 +38,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>CANAL 9 Rocha</title>     
+<link>http://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1MjE2OTc4ODkmcmFuZG9tPUVjYVZZN0RndlAmYy1pcD0xNzkuMjYuMTkuMjA0LGZhYzQ0YWM4OTE0ZDRkYjNjNjBkOTVhN2UxNTIwYzMzNjc5NDQzYTA4ZGUyMTg2OWY1YzM0ZWFmOGVlZDA4N2Y=/vxfmt=hls/var1200000/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
