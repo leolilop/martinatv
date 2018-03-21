@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+--URUGUAY--
 
 <item>
 <title>CANAL 12</title>        
@@ -24,6 +25,27 @@
 <item>
 <title>CANAL 2 San Carlos</title>        
 <link>http://vxlive.cdn.antel.net.uy/auth_livesignal_458,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU4JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1MjE2OTYyMDAmcmFuZG9tPTJMOGpBYzdFeTYmYy1pcD0xNzkuMjYuMTkuMjA0LGIxYTVkYTMzOWUzZjk5MGJmODM2MWYzZTgwZmQ0ZDA0ZWE5ODYyMDM0NDBmZDcwNGEyNjg3M2YxZGM5N2JiNGI=/vxfmt=hls/var3000000/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CANAL 8 Rocha</title>        
+<link>http://vxlive.cdn.antel.net.uy/auth_livesignal_458,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU4JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1MjE2OTYyMDAmcmFuZG9tPTJMOGpBYzdFeTYmYy1pcD0xNzkuMjYuMTkuMjA0LGIxYTVkYTMzOWUzZjk5MGJmODM2MWYzZTgwZmQ0ZDA0ZWE5ODYyMDM0NDBmZDcwNGEyNjg3M2YxZGM5N2JiNGI=/vxfmt=hls/var3000000/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CANAL 2 San Carlos</title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CANAL 2 San Carlos</title>        
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
