@@ -130,12 +130,12 @@
 <name>get-url</name>
 <expres>file: "(.*?)"</expres>
 <page>$doregex[get-embe]</page>
-<referer>https://www.americatv.com.ar</referer>
+<referer>http://television-internet.com.ar</referer>
 </regex>
 <regex>
 <name>get-embe</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>https://www.americatv.com.ar</page>
+<page>http://television-internet.com.ar/america-tv.html</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
