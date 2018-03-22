@@ -65,7 +65,7 @@
 
 <item>
 <title>CANAL 9</title>
-<link>https://watcha.live/b0d857b7-e619-411e-8db5-e090c9d32539</link> 
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b1328000.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -77,17 +77,4 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>CANAL 9-1</title>
-<urlsolve>https://watcha.live/b0d857b7-e619-411e-8db5-e090c9d32539</urlsolve> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CANAL 9-1</title>
-<urlsolve>blob:https://watcha.live/7a7283f8-8198-4c04-809b-15a06369b267</urlsolve> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
