@@ -33,7 +33,7 @@
 <regex>
 <name>get-embe</name>
 <expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/8071</page>
+<page>http://tv.vera.com.uy/canal/6042</page>
 <referer>http://tv.vera.com.uy</referer>
 <cookieJar></cookieJar>
 </regex>
