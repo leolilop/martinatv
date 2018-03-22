@@ -36,10 +36,22 @@
 </item>
 
 <item>
-<title>CANAL 8 Rocha</title>     
-<link>http://vxlive.cdn.antel.net.uy/auth_livesignal_461,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDYxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1MjE2OTczNDMmcmFuZG9tPUhXMWhraFdrZ0wmYy1pcD0xNzkuMjYuMTkuMjA0LGQ0YzRkODBmM2E3ZTNmNDg2OWI4MWJlZmJmMjdjOTU5YzMxZjE4Y2JlZjI1MGZjYzRmYTk0MmU4M2Y0OGNiYjc=/vxfmt=hls/var1200000/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+    <title>Canal 8 de Rocha</title>
+    <link>$doregex[get-url]</link>
+    <regex>
+    <name>get-url</name>
+    <expres>file: "(.*?)"</expres>
+    <page>$doregex[get-embe]</page>
+    <referer>http://tv.vera.com.uy</referer>
+    </regex>
+    <regex>
+    <name>get-embe</name>
+    <expres>'src', '(.*extras.*?)'</expres>
+    <page>http://tv.vera.com.uy/canal/6071</page>
+    <referer>http://tv.vera.com.uy</referer>
+    <cookieJar></cookieJar>
+    </regex>
+    <thumbnail></thumbnail>
 </item>
 
 <item>
