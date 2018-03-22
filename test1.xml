@@ -136,7 +136,7 @@
 <name>get-embe</name>
 <expres>'src', '(.*extras.*?)'</expres>
 <page>http://television-internet.com.ar/america-tv.html</page>
-<referer>http://tv.vera.com.uy</referer>
+<referer>http://television-internet.com.ar</referer>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail></thumbnail>
