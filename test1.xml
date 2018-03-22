@@ -71,11 +71,16 @@
 </item>
 
 <item>
-<title>CANAL 9-0</title>
-<sportsdevil>http://www.sintelevisor.com/tv/canal9.html</sportsdevil> 
-<referer>http://www.sintelevisor.com</referer>
+<title>CANAL 9</title>
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>CANAL 9</title>
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
