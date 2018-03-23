@@ -133,19 +133,10 @@
 
 <item>
 <title>AMERICA TV</title>
-<link>$doregex[get-url]</link>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
 <regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-embe]</page>
-<referer>http://television-internet.com.ar</referer>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true</page>
 </regex>
-<regex>
-<name>get-embe</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://television-internet.com.ar/america-tv.html</page>
-<referer>http://television-internet.com.ar</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
 </item>
