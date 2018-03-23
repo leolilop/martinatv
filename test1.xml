@@ -140,3 +140,8 @@
 <page>http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true</page>
 </regex>
 </item>
+
+<item>
+<title>AMERICA TV</title>
+<link>http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true</link>
+</item>
