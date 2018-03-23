@@ -9,16 +9,24 @@
 
 <item>
 <title>Canal 12 La Tele</title>        
-<link>http://api.new.livestream.com/accounts/13567583/events/6415731/broadcasts/172097595.m3u8</link>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>http://new.livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+</regex>
 <thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
 <title>Canal 4 Montecarlo</title>        
-<link>http://api.new.livestream.com/accounts/152816/events/4235094/broadcasts/172053475.m3u8</link>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/152816/events/4235094/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>http://new.livestream.com/accounts/152816/events/4235094/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+</regex>
 <thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
